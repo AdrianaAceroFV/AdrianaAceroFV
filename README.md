@@ -26,3 +26,5 @@
 - Books :book:
 - Skating :ski:
 - Traveling :earth_africa:
+
+**You can reach me at my email: adriana.acerofv@gmail.com**
