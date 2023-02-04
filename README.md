@@ -5,9 +5,9 @@
 
 
 ### Skills 🛠️
-- **Languages**: &nbsp;                          Python, SQL, R
-- **Tools**: &nbsp;&nbsp;                        Power BI
-- **DevOps**:  &nbsp;&nbsp;&nbsp;&nbsp;          Git
+- **Languages**: Python, SQL, R
+- **Tools**: Power BI
+- **DevOps**: Git
 
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
