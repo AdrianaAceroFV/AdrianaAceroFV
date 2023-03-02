@@ -12,7 +12,7 @@
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
 | ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
-| **Data Analyst**                | **Konecta**    | **Business Intelligence**                   | **21.03.2022 — until now** |
+| **Data Engineer**                | **Konecta**    | **Business Intelligence**                   | **21.03.2022 — until now** |
 | Data Analyst     | Vodafone     | Technology Planning        | 25.11.2019 — 13.8.2020    |
 
 
