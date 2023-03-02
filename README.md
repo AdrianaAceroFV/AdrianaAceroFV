@@ -29,4 +29,4 @@
 
 **You can reach me at my email: adriana.acerofv@gmail.com**
 
-
+![Visitor Count](https://profile-counter.glitch.me/{AdrianaAceroFV}/count.svg)
