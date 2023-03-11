@@ -24,12 +24,12 @@
 ### Education 🎓
 - [Bachelor's degree](https://github.com/AdrianaAceroFV/AdrianaAceroFV/files/10148742/title.pdf)
  at Universidad Autónoma de Madrid 
+ 
 - Datacamp courses:
-
- - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/70694779293d074d0f7be9138a41586d158e6fba)
- - [Introduction to the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/7b853d6ab4309fdff89a27b3284bb190fb1359fc)
- - [SQL for Joining Data](https://www.datacamp.com/statement-of-accomplishment/course/a24744e4e6c38a3e420b6bce03a7ed8ca48e376f)
- - [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/5504c102f2578467596065d68c85663c02ab322e)
+  - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/70694779293d074d0f7be9138a41586d158e6fba)
+  - [Introduction to the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/7b853d6ab4309fdff89a27b3284bb190fb1359fc)
+  - [SQL for Joining Data](https://www.datacamp.com/statement-of-accomplishment/course/a24744e4e6c38a3e420b6bce03a7ed8ca48e376f)
+  - [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/5504c102f2578467596065d68c85663c02ab322e)
 
 ### Other interests 👀
 - Nature :seedling:
