@@ -29,4 +29,8 @@
 
 **You can reach me at my email: adriana.acerofv@gmail.com**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AdrianaAceroFV&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianaAceroFV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Visitor Count](https://profile-counter.glitch.me/{AdrianaAceroFV}/count.svg)
