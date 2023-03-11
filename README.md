@@ -23,8 +23,7 @@
 
 ### Education 🎓
 - [Bachelor's degree](https://github.com/AdrianaAceroFV/AdrianaAceroFV/files/10148742/title.pdf)
- at Universidad Autónoma de Madrid
- 
+ at Universidad Autónoma de Madrid 
 - Datacamp courses:
 
  - [Introduction to R](https://www.datacamp.com/statement-of-accomplishment/course/70694779293d074d0f7be9138a41586d158e6fba)
