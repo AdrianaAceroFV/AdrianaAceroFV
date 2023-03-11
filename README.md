@@ -36,6 +36,7 @@
 - Nature :seedling:
 - Music and piano :musical_keyboard:
 - Books :book:
+- Videogames :video_game:
 - Skating :ski:
 - Traveling :earth_africa:
 
