@@ -28,6 +28,9 @@
   - [Introduction to the Tidyverse](https://www.datacamp.com/statement-of-accomplishment/course/7b853d6ab4309fdff89a27b3284bb190fb1359fc)
   - [SQL for Joining Data](https://www.datacamp.com/statement-of-accomplishment/course/a24744e4e6c38a3e420b6bce03a7ed8ca48e376f)
   - [Intermediate SQL Queries](https://www.datacamp.com/statement-of-accomplishment/course/5504c102f2578467596065d68c85663c02ab322e)
+  - [Regular Expressions in Python](https://www.datacamp.com/statement-of-accomplishment/course/be6978b30b21e1eaece91f879b6ef97bd989f723)
+  - [Python Data Science Toolbox (Part 1)](https://www.datacamp.com/statement-of-accomplishment/course/6fbfcd7bb621d8fd5b97c8e606f8bf6ee977525f)
+  - [Python Data Science Toolbox (Part 2)](https://www.datacamp.com/statement-of-accomplishment/course/c011e2359650df9546f8fa94ec7f7a60dafca8a5)
   
 - Udemy courses:
   - [Aprende Git y GitHub: El control de versiones de la A a la Z](https://www.udemy.com/certificate/UC-c05c550d-e063-4dc2-a63d-cc914609cef0/)
