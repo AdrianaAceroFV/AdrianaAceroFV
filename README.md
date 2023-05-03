@@ -9,7 +9,7 @@
 
 ### Skills 🛠️
 - **Languages**: Python, SQL, R
-- **Tools**: Power BI
+- **Tools**: Power BI, Pentaho PDI
 - **DevOps**: Git
 
 ### Work experience 👔
