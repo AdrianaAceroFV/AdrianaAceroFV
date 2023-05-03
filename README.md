@@ -34,6 +34,7 @@
   
 - Udemy courses:
   - [Aprende Git y GitHub: El control de versiones de la A a la Z](https://www.udemy.com/certificate/UC-c05c550d-e063-4dc2-a63d-cc914609cef0/)
+  - [Aprende Pentaho Data Integration(PDI) desde Cero](https://www.udemy.com/certificate/UC-4c7f3f0d-e664-4364-9228-9fac659d6066/)
 
 ### Other interests 👀
 - Nature :seedling:
