@@ -3,7 +3,7 @@
   <img src="https://user-images.githubusercontent.com/91780726/205495218-11ae604c-43e0-4be6-b4a6-b82f4176dd98.gif" alt="messagif (3)">
 </p>
 
-**Field of interests**: Statistics, Computer Science, Artificial Intelligence, Data Science, Mathematics, Machine Learning, Biostatistics, Bioinformatics [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
+**Field of interests**: Statistics, Computer Science, Artificial Intelligence, Data Science, Mathematics, Machine Learning, Deep Learning, Data Mining, Biostatistics, Bioinformatics [![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
 
 
