@@ -20,9 +20,9 @@
 
 
 ### Education 🎓
-- Msc. Big Data, Data Science and Artificial Intelligence student at Universidad Complutense de Madrid
+- Msc. Big Data, Data Science and Artificial Intelligence student @ Universidad Complutense de Madrid
 - [Bachelor's degree in Mathematics](https://github.com/AdrianaAceroFV/AdrianaAceroFV/files/10148742/title.pdf)
- at Universidad Autónoma de Madrid
+  @ Universidad Autónoma de Madrid
 
  
 - Datacamp courses:
