@@ -9,7 +9,7 @@
 
 ### Skills 🛠️
 - **Languages**: Python, SQL, R
-- **Tools**: Power BI, Pentaho PDI
+- **Tools**: Power BI, Pentaho PDI, SNOWFLAKE
 - **Cloud & DevOps**: Git, AWS (Lambda, S3, SageMaker)
 
 ### Work experience 👔
