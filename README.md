@@ -10,13 +10,13 @@
 ### Skills 🛠️
 - **Languages**: Python, SQL, R
 - **Tools**: Power BI, Pentaho PDI, SNOWFLAKE
-- **Cloud & DevOps**: Git, AWS (Lambda, S3, SageMaker)
+- **Cloud & DevOps**: Git, AWS (Lambda, S3, SageMaker, Bedrock)
 
 ### Work experience 👔
 | Job Position                 | Company            | Field                        | Work Period                |
 | ---------------------------- | ------------------ | ---------------------------- | -------------------------- |
 | **AI/NLP Engineer**                | **OPINATOR**    | **Artificial Intelligence**                   | **01.08.2024 — Until Now** |
-| Data Engineer                | Konecta    | Business Intelligence                   | 21.03.2022 — 31.07.2024 |
+| Data Scientist               | Konecta    | Business Intelligence                   | 21.03.2022 — 31.07.2024 |
 | Data Analyst     | Vodafone     | Technology Planning        | 25.11.2019 — 13.8.2020    |
 
 
